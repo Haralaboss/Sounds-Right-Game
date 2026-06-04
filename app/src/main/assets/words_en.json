@@ -1,0 +1,20 @@
+{
+  "easy": [
+    "Cat", "Dog", "Cow", "Pig", "Lion",
+    "Car", "Motorcycle", "Train", "Airplane", "Clock",
+    "Bird", "Frog", "Sheep", "Horse", "Monkey"
+  ],
+  "medium": [
+    "Helicopter", "Dolphin", "Washing Machine", "Guitar", "Piano",
+    "Owl", "Mosquito", "Laser", "Ghost", "Zipper",
+    "Fireworks", "Vacuum Cleaner", "Wind", "Typing", "Heartbeat"
+  ],
+  "hard": [
+    "Black Hole", "Photosynthesis", "WiFi Router", "Electricity", "Gravity",
+    "Dinosaur", "Microscope", "Internet", "Submarine", "Solar System",
+    "DNA", "Volcano", "Avalanche"
+  ],
+  "impossible": [
+    "Time Machine", "Alien"
+  ]
+}

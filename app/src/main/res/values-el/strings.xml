@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sounds Right</string>
+    <string name="menu_play">Παίξε</string>
+    <string name="menu_help">Οδηγίες</string>
+    <string name="language_toggle">Γλώσσα: Ελληνικά</string>
+    <string name="help_rules">Το παιχνίδι χρειάζεται 3 ή περισσότερους παίκτες (Έως 8).\n\nΟ παίκτης που κρατάει το τηλέφωνο λαμβάνει μια λέξη και πρέπει να μιμηθεί έναν ήχο που περιγράφει αυτή τη λέξη χρησιμοποιώντας μόνο τη φωνή του. Όλοι οι άλλοι φωνάζουν λέξεις μέχρι κάποιος να μαντέψει τη λέξη. Ο πρώτος που θα μαντέψει και ο παίκτης του οποίου ήταν η σειρά παίρνουν πόντους. Όταν τελειώσει ο γύρος το τηλέφωνο πηγαίνει στον επόμενο.\n\nΣε κάθε γύρο, ο παίκτης που κρατάει το τηλέφωνο επιλέγει τη δυσκολία της λέξης του. Υπάρχουν 3 δυσκολίες, εύκολη, κανονική, δύσκολη και δίνουν 1, 2 και 3 πόντους αντίστοιχα.\n\nΣε περίπτωση που 2 ή περισσότερα άτομα πουν τη σωστή λέξη ταυτόχρονα, παίρνουν και οι δύο πόντους.\n\nΔεν μπορείτε να χρησιμοποιήσετε ήχους που είναι λέξεις όπως "μπιπ", "μιάου", "γαβ" κλπ. Πρέπει να μιμηθείτε τον ήχο.</string>
+    <string name="settings_players">Παίκτες</string>
+    <string name="settings_time">Χρόνος (Δευτερόλεπτα)</string>
+    <string name="settings_rounds">Γύροι</string>
+    <string name="settings_untimed">∞</string>
+    <string name="start">Εκκίνηση</string>
+    <string name="rule_reminder_title">Θυμήσου!</string>
+    <string name="rule_reminder_message">Δεν μπορείτε να χρησιμοποιήσετε ήχους που είναι λέξεις όπως "μπιπ", "μιάου", "γαβ" κλπ. Πρέπει να μιμηθείτε τον ήχο.</string>
+    <string name="dont_show_again">Μην το ξαναδείξεις</string>
+    <string name="ok">ΟΚ</string>
+    <string name="difficulty_title">Παίκτη %1$d επίλεξε δυσκολία λέξης</string>
+    <string name="difficulty_easy">Εύκολη - 1 πόντος</string>
+    <string name="difficulty_medium">Μεσαία - 2 πόντοι</string>
+    <string name="difficulty_hard">Δύσκολη - 3 πόντοι</string>
+    <string name="difficulty_impossible">Αδύνατη - 5 πόντοι</string>
+    <string name="found_button">ΒΡΕΘΗΚΕ</string>
+    <string name="time_out">Τέλος χρόνου</string>
+    <string name="continue_button">Συνέχεια</string>
+    <string name="congrats_title">Συγχαρητήρια!\nΠοιος βρήκε τη λέξη;</string>
+    <string name="scoreboard_title">Βαθμολογία</string>
+    <string name="round_indicator">Γύρος %1$d</string>
+    <string name="player_name">Παίκτης %1$d</string>
+    <string name="menu_button">Μενού</string>
+    <string name="player_won">Ο Παίκτης %1$d κέρδισε!</string>
+    <string name="tie_game">Ισοπαλία!</string>
+    <string name="buy_coffee">Κέρασε με καφέ ☕</string>
+    <string name="buy_coffee_thanks">Ευχαριστώ! Αυτό είναι προσωρινό.</string>
+    <string name="settings_title">ΕΠΙΛΟΓΕΣ</string>
+    <string name="settings_warning">⚠️ Το παιχνίδι χρειάζεται 3+ παίχτες για να είναι ανταγωνιστικό. Με 2 παίχτες θα λήγει πάντα ισοπαλία.</string>
+    <string name="failed_message">Έχασες! \n\nΜην κλέψεις την επόμενη φορά.</string>
+    <string name="no_selection_title">Απαιτείται Επιλογή</string>
+    <string name="no_selection_message">Παρακαλώ επιλέξτε τουλάχιστον 1 παίκτη που βρήκε τη λέξη σωστά.</string>
+    <string name="exit_game_title">Έξοδος από το Παιχνίδι;</string>
+    <string name="exit_game_message">Θέλετε να επιστρέψετε στο μενού; Το παιχνίδι θα χαθεί.</string>
+    <string name="end_game_button">Έξοδος</string>
+    <string name="stay_button">Παραμονή</string>
+</resources>

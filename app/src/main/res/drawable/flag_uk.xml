@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="27dp"
+    android:height="18dp"
+    android:viewportWidth="27"
+    android:viewportHeight="18">
+    <!-- Blue background -->
+    <path
+        android:fillColor="#00247D"
+        android:pathData="M0,0h27v18H0z"/>
+    <!-- Diagonal white saltire -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M0,0 L27,18 M27,0 L0,18"/>
+    <!-- Diagonal red saltire -->
+    <path
+        android:strokeColor="#CF142B"
+        android:strokeWidth="1"
+        android:pathData="M0,0 L27,18 M27,0 L0,18"/>
+    <!-- Cross of St George (white outline) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M11,0h5v18h-5z M0,6.5h27v5H0z"/>
+    <!-- Cross of St George (red) -->
+    <path
+        android:fillColor="#CF142B"
+        android:pathData="M12,0h3v18h-3z M0,7.5h27v3H0z"/>
+</vector>

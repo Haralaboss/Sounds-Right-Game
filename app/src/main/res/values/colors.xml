@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Keep these for System/Splash support -->
+    <color name="background_purple">#15182B</color>
+    <color name="light_purple">#6C63FF</color>
+
+    <!-- Legacy support for Theme.kt status bar helper if needed -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#6C63FF</color>
+    <color name="purple_700">#15182B</color>
+    <color name="teal_200">#00D9FF</color>
+    <color name="teal_700">#00D9FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
